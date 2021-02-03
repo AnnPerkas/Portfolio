@@ -8,7 +8,7 @@ The dataset `telecom_dataset_us.csv` contains the following columns:
 - `internal` — whether the call was internal (between a client's operators)**
 - `operator_id` — operator identifier
 - `is_missed_call` — whether the call was missed
-    - `date` — date the statistics were retrieved
+- `date` — date the statistics were retrieved
 - `user_id` — client account ID
 - `calls_count` — number of calls
 - `call_duration` — call duration (excluding waiting time)
